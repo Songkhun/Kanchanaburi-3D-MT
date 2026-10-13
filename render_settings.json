@@ -1,0 +1,40 @@
+{
+  "model": "modPAPER/kansea4_model.01_01",
+  "dimensions": [
+    80,
+    80,
+    37
+  ],
+  "full_extent_km": [
+    348,
+    348,
+    129
+  ],
+  "view_extent_km": [
+    160,
+    160,
+    36
+  ],
+  "resistivity_display_range_ohm_m": [
+    0.1,
+    10000
+  ],
+  "colormap": "RdYlBu",
+  "isosurface_ohm_m": 10,
+  "isosurface_depth_interval_km": [
+    3.5,
+    36
+  ],
+  "isosurface_interpolation": "VTK cell-to-point averaging in log10 resistivity",
+  "station_source": "modPAPER/kansea4_resp.01_01",
+  "station_count": 39,
+  "maximum_station_difference_from_matlab_m": 5.204097992973402,
+  "closing_caption": "Kanchanaburi 3D MT model: The first MT crustal structure in Thailand",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration_s": 90,
+  "audio": false,
+  "rendering": "CPU orthographic projection; original cell values on slices",
+  "model_header": "#Iteration No.   1  RMS =       2.3121 LM =       1.0000"
+}

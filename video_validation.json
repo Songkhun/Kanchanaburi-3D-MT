@@ -1,0 +1,14 @@
+{
+  "frame_count": 2700,
+  "duration_s": 90.0,
+  "fps": 30.0,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "codec": "h264",
+  "file_size_bytes": 18063461,
+  "full_decode": "passed",
+  "audio": null,
+  "verified_closing_frame": "verified_closing_frame.jpg"
+}
